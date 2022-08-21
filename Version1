@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            #title1{color:#FF0000;}
+            #title2 {color: rgb(240, 196, 19);}
+            #pt {color:rgb(250, 8, 8);}
+            #rodape{background-color:rgb(250, 8, 8);}
+            #rodape{color:rgb(255, 255, 255);}
+            
+        </style>
+
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+         <img src= "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="470" height="300">
+        
+         
+         <h1>Ger </h1> 
+         <h1 id="title1" style="text-align:center"> ma</h1>
+         <h1 style="text-align:right" id="title2">ny</h1>
+         <br>
+         <br>
+         <br>
+        
+         <h2>História da bandeira</h2> 
+         <p>Inspirada na farda de soldados que lutaram contra Napoleão, combinação tricolor também é uma resposta às três cores do estandarte francês. Após um acalorado debate, as mães e os pais da Lei Básica da Alemanha de 1949 redigiram a frase no artigo 22 da nova Constituição: "A bandeira federal é preta, vermelha e dourada". </p>
+         <br>
+         <br>
+         <br>
+    
+      <h2 id="pt">Pontos turisticos</h2>    
+      
+      <ul>
+          <li>Portão de Brandenburgo- Principal atração de berlim</li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Brandenburger_Tor_-_freakyman_2.jpg/1200px-Brandenburger_Tor_-_freakyman_2.jpg" width="300" height="200">
+          <li>Castelo de Neuschwanstein - O castelo que inspirou Walt Disney </li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1200px-Schloss_Neuschwanstein_2013.jpg" width="300" height="200">
+          <li>Campo de Concentração de Sachasenhausen</li>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Sachsenhausen_concentration_camp_airphoto.jpg" width="300" height="200"> 
+          
+          <li> Zugspitze, na Bavária- Montanha mais alta da alemanha</li>
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zugspitze_Westansicht.JPG/800px-Zugspitze_Westansicht.JPG" width="300" height="200"> 
+      </ul>
+      
+      <br>
+        <br>
+        <br>
+        
+        <h2> Melhor época para visitar este país incrível </h2>
+        <p> O melhor período para visitar a Alemanha é entre maio e setembro. Apesar das chuvas ocasionais, o clima quente e os dias mais longos fazem com que esses meses sejam ideais para explorar a Alemanha. </p>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_Germany_L%C3%A4nder-de.svg/1200px-Map_Germany_L%C3%A4nder-de.svg.png" width="300" height="300">
+         <br>
+         <br>
+         <br>
+         <br>
+         <br>
+         <br>
+         <p id="rodape"> e-mail: contato@example.com <br> 
+         <br>
+         Termos de uso/ Politicas de privacidade/ Aviso de cookies
+         </p>
+         
+    </body>
+</html>
